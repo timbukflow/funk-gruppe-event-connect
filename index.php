@@ -87,7 +87,7 @@
             <div class="grid01">
               <p>
                 <strong>Funk Gruppe</strong> <br>
-                Henric Petri- Strasse 12, 4051 Basel
+                Henric Petri-Strasse 12, 4051 Basel
               </p>
               <p>
                 <strong>Anreise mit dem ÖV:</strong> <br>
