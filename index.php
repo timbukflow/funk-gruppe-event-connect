@@ -37,8 +37,11 @@
           Im Anschluss laden wir Sie herzlich zu einem Apéro Riche ein, bei dem ausreichend Zeit für ungezwungene Gespräche und Vernetzung bleibt.
           </span>
           <span>
-          Wir freuen uns auf einen interessanten Austausch und einen gemütlichen Abend mit Ihnen.
+          Wir freuen uns auf einen interessanten Austausch und einen gemütlichen Abend mit Ihnen.<br><br>
+          <strong>Philipp Buser</strong><br>
+          Leiter Niederlassung Basel</p>
           </span>
+          
         </p>
       </article>
 
@@ -53,7 +56,7 @@
             <div class="grid02">
               <p><strong>Datum</strong> </p>
               <p><strong>Dienstag, 18. Juni 2024</strong></p>
-              <p>17.45 Uhr</p>
+              <p>17:45 Uhr</p>
               <p>Eintreffen der Gäste</p>
               <p>18:00 Uhr</p>
               <p>Begrüssung / Referat Daniel Gebhardt</p>
