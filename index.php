@@ -14,7 +14,7 @@
         <div class="event-title">
           <h1 class="header">Funk Connect</h1>
           <h2 class="header">Aus der Praxis für die Praxis</h2>
-          <h2 class="fix">18. Juni 2024</h2>
+          <h2 class="fix">20. November 2024</h2>
           <div class="event-container-img"></div> 
         </div>
         <button class="homebutton"> <a class="goto" href="#anmeldung">zur Anmeldung</a> </button>
@@ -22,16 +22,16 @@
 
     <section>
       <article class="intro">
-        <h1>Persönliche Einladung <br> Baurecht in der Praxis erleben</h1>
+        <h1>Persönliche Einladung <br> Herausforderung Inklusion für Wirtschaft und Gesellschaft</h1>
         <p>
           <span>
           Sehr geehrte Damen und Herren
           </span>
           <span>
-          Wir freuen uns, Sie zu unserem &laquo;Funk Connect&raquo; Event in unserer Niederlassung in Basel einzuladen. Unsere wiederkehrende Eventreihe &laquo;Funk Connect&raquo; bietet Einblicke von der Praxis für die Praxis. Knüpfen Sie wertvolle Kontakte in einem angenehmen und persönlichen Rahmen.
+          Wir freuen uns, Sie zu unserem zweiten &laquo;Funk Connect&raquo; Event in unserer Niederlassung in Basel einzuladen. Unsere wiederkehrende Eventreihe &laquo;Funk Connect&raquo; bietet Einblicke von der Praxis für die Praxis. Knüpfen Sie wertvolle Kontakte in einem angenehmen und persönlichen Rahmen.
           </span>
           <span>
-          Erleben Sie ein spannendes Impulsreferat der <strong>NEOVIUS AG</strong> zu Themen des öffentlichen und privaten Baurechts und erfahren Sie praxisnahe Einblicke von Herrn Daniel Gebhardt, Fachanwalt SAV Bau- und Immobilienrecht.
+          Erleben Sie ein spannendes Impulsreferat der <strong>Conclood AG</strong> zum Thema Inklusion (UN-Konvention) von Menschen mit Beeinträchtigungen - Herausforderung für die Wirtschaft und Gesellschaft. Welche Transformation ist dazu nötig und wichtig? Erfahren Sie praxisnahe Vorgehensweisen und Einblicke von <strong>Herrn Rolf Müller, Verwaltungsratspräsident Conclood AG.</strong>
           </span>
           <span>
           Im Anschluss laden wir Sie herzlich zu einem Apéro Riche ein, bei dem ausreichend Zeit für ungezwungene Gespräche und Vernetzung bleibt.
@@ -55,13 +55,13 @@
           <div class="acclist">
             <div class="grid02">
               <p><strong>Datum</strong> </p>
-              <p><strong>Dienstag, 18. Juni 2024</strong></p>
+              <p><strong>Mittwoch, 20. November 2024</strong></p>
               <p>17:45 Uhr</p>
               <p>Eintreffen der Gäste</p>
               <p>18:00 Uhr</p>
-              <p>Begrüssung / Referat Daniel Gebhardt</p>
+              <p>Begrüssung / Referat Rolf Müller</p>
               <p class="noline" >19:00 Uhr</p>
-              <p class="noline" >Apéro riche / Networking</p>
+              <p class="noline" >Apéro Riche / Networking</p>
             </div>
           </div>
         </div>
@@ -73,9 +73,9 @@
           </div>
           <div class="acclist">
             <div class="grid02 center">
-              <img src="./img/daniel-gebhardt.jpg" alt="daniel-gebhardt">
+              <img src="./img/rolf-mueller.jpg" alt="rolf-mueller">
               <p class="noline">
-                <strong>Daniel Gebhardt,</strong> <br> geboren 1960, Partner Neovius AG, Fachanwalt SAV Bau- und Immobilienrecht. Berät Unternehmen, öffentliche Hand und Privatpersonen in allen Belangen des Bau- und Immobilienrechts. Spezialisiert auf Raumplanung, Vertragswesen, Umweltschutzrecht, Submissionsrecht und Enteignungsrecht. Experte in der Begleitung von Grossprojekten vom Beginn bis zur Fertigstellung.
+                <strong>Rolf Müller</strong> <br> Rolf Müller aus Oberägeri ist ein erfahrener Experte im Sozialbereich mit einer langjährigen Berufstätigkeit als CEO sozialer Einrichtungen. Er verfügt über tiefgehendes Wissen über die Entwicklungen im Sozialsektor und deren gesellschaftliche Anforderungen und Auswirkungen. Zusätzlich ist er in verschiedenen Vorstands- und Verwaltungsratsmandaten tätig, darunter bei ARTISET, dem nationalen Dachverband von Institutionen für Menschen mit Unterstützungsbedarf, dem Schweizerischen Arbeitgeberverband (SAV) und als Verwaltungsratspräsident der Conclood AG.
               </p>
             </div>
           </div>
@@ -105,7 +105,7 @@
       
       <div id="anmeldung" class="containerform">
             <h2>Anmeldung</h2>
-            <p>Die Teilnehmerzahl ist beschränkt. Die Anmeldungen werden nach Eingang berücksichtigt. <strong>Anmeldeschluss ist der 4. Juni 2024.</strong></p>
+            <p>Die Teilnehmerzahl ist beschränkt. Die Anmeldungen werden nach Eingang berücksichtigt. <strong>Anmeldeschluss ist der 7. Oktober 2024.</strong></p>
             <?php require_once('form.php'); ?>
 
             <form id="contact" method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" novalidate>
