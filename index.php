@@ -31,7 +31,7 @@
           Wir freuen uns, Sie zu unserem zweiten &laquo;Funk Connect&raquo; Event in unserer Niederlassung in Basel einzuladen. Unsere wiederkehrende Eventreihe &laquo;Funk Connect&raquo; bietet Einblicke von der Praxis für die Praxis. Knüpfen Sie wertvolle Kontakte in einem angenehmen und persönlichen Rahmen.
           </span>
           <span>
-          Erleben Sie ein spannendes Impulsreferat der <strong>Conclood AG</strong> zum Thema Inklusion (UN-Konvention) von Menschen mit Beeinträchtigungen - Herausforderung für die Wirtschaft und Gesellschaft. Welche Transformation ist dazu nötig und wichtig? Erfahren Sie praxisnahe Vorgehensweisen und Einblicke von <strong>Herrn Rolf Müller, Verwaltungsratspräsident Conclood AG.</strong>
+          Erleben Sie ein spannendes Impulsreferat zum Thema Inklusion (UN-Konvention) von Menschen mit Beeinträchtigungen - Herausforderung für die Wirtschaft und Gesellschaft. Welche Transformation ist dazu nötig und wichtig? Erfahren Sie praxisnahe Vorgehensweisen und Einblicke von <strong>Herrn Rolf Müller,</strong> einem ausgewiesenen Kenner der Thematik aus unterschiedlichen Blickwinkeln.
           </span>
           <span>
           Im Anschluss laden wir Sie herzlich zu einem Apéro Riche ein, bei dem ausreichend Zeit für ungezwungene Gespräche und Vernetzung bleibt.
